@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">A1L1_HelloWorld</string>
+    <string name="weather">Прогноз погоды!</string>
+    <string name="city">Москва, Московская обл.</string>
+    <string name="degrees">+30°, ЯСНО</string>
+    <string name="enter_text">Enter text</string>
+    <string name="search">Поиск</string>
+    <string name="moscow">Москва</string>
+    <string name="saint_petersburg">Санкт-Петербург</string>
+    <string name="samara">Самара</string>
+    <string name="rostov_on_don">Ростов-на-Дону</string>
+    <string name="enter_the_city_name">Введите название города</string>
 </resources>
